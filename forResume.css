@@ -1,0 +1,71 @@
+#link{
+    text-align: center;
+}
+#head{
+    color: darkgreen ;
+    text-align: center;
+    text-decoration: solid;
+    border-style: double ;
+}
+#madhuri{
+    border: darkgreen solid 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+}
+.objective{
+    border: darkgreen solid 5px;
+    padding: 10px;
+    margin: 5px;
+    font-size: larger;
+}
+.heading{
+    color:darkgreen;
+}
+.myDiv{
+    text-align: center;
+}
+#pattern{
+    float: left;
+    border: darkgreen solid 5px;
+    padding: 10px;
+    margin: 5px;
+}
+#tabs{
+    border: darkgreen solid 2px;
+    /* width: "50%"; */  
+}
+#tabs ul{
+    background-color: darkgreen;
+    border: white solid 2px;
+}
+#tabs li{
+    background-color: green;
+    border: white solid 2px;
+}
+#tabs ul:hover li a{
+    color: limegreen;
+}
+#tabs ul li:hover a{
+    color:yellow;
+}
+li{
+    border: darkgreen solid 1px;
+    margin: 5px;
+    padding: 10px;
+}
+.btn {
+    border: darkgreen solid 2px;
+    border-radius: 10px;
+    background-color:green;
+    color: whitesmoke;
+    cursor: pointer;
+    margin: 5px;
+    padding: 10px;
+    box-shadow: 0 5px grey
+}
+.messageBox{
+    visibility: hidden;
+    border: darkgreen;
+}
